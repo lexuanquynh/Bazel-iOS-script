@@ -31,9 +31,6 @@ brew install bazelisk
 ### 2. Initial Setup
 
 ```bash
-# Extract the package
-unzip bazel_ios_setup_final.zip
-
 # Make scripts executable
 chmod +x *.sh
 
