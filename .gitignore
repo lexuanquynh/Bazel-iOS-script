@@ -1,0 +1,75 @@
+# =======================
+# iOS / Xcode
+# =======================
+# User settings
+xcuserdata/
+*.xcuserstate
+
+# Derived data
+DerivedData/
+build/
+
+# Xcode project/workspace
+*.xcworkspace/xcuserdata/
+*.xcscmblueprint
+
+# iOS specific
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+/.build/
+.swiftpm/
+Package.resolved
+
+# CocoaPods
+/Pods/
+Podfile.lock
+
+# Carthage
+/Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Archives
+*.xcarchive
+
+# =======================
+# Bazel
+# =======================
+# Bazel output folders
+bazel-*
+/bazel-out/
+/bazel-bin/
+/bazel-testlogs/
+/bazel-workspace/
+/bazel-*
+
+# Local execution
+*.runfiles/
+
+# =======================
+# General
+# =======================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# IDE
+*.swp
+*.swo
+*.idea/
+*.vscode/
