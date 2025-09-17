@@ -55,6 +55,12 @@ bazelisk build //App:App --config=device
 
 # Run tests
 bazelisk test //...
+
+# Run app trên simulator
+bazelisk run //App:App --config=simulator
+
+# Or debug config
+bazelisk run //App:App --config=sim_debug
 ```
 
 ### 4. Generate Xcode Project
