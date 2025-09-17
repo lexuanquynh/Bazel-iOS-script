@@ -225,3 +225,8 @@ For issues or questions, refer to:
 - [rules_apple](https://github.com/bazelbuild/rules_apple)
 - [rules_swift](https://github.com/bazelbuild/rules_swift)
 - [rules_xcodeproj](https://github.com/MobileNativeFoundation/rules_xcodeproj)
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
